@@ -11,7 +11,7 @@ hero:
       text: 立即开户
       link: /markdown-examples
     - theme: alt
-      text: 联系于振东
+      text: 联系于振东顾问
       link: /api-examples
 
 features:
