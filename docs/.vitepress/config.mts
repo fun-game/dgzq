@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/dgzq/',
 
-  title: "My Awesome Project",
+  title: "东莞证券 | 厦门分公司",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

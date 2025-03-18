@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: "东莞证券"
+  text: "专业券商"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 立即开户
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 联系于振东
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 东莞证券
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 东莞证券
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 东莞证券
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
